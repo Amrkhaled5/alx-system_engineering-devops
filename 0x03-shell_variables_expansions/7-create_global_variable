@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 export BEST="School"
-=======
-export HOLBERTON="Betty"
->>>>>>> bd7832f7af245b305a2b019a1533393ef568f45f
